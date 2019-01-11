@@ -12,7 +12,7 @@
 ![](wifi_ap02.png)
 
 - **步骤三**：使用热点Use as Hotspot
-- **步骤四**：进入Normal栏，进入常规页面，勾选`可用时自动链接到这个网络`
+- **步骤四**：进入General栏，进入常规页面，勾选`可用时自动链接到这个网络`
 - **步骤五**：配置该热点的相关信息，connection name取名`ap_name`，SSID也就是该热点WIFI的名称，自己任意取，`mode`设置为`Hotspot`
 - **步骤六**：进入Wi-Fi Security栏，设置加密方式`WPA&WPA2`和密码
 - **步骤七**：进入IPv4 Settings栏，设置`Shared to other computers`
