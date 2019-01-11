@@ -18,11 +18,9 @@
 - **步骤七**：进入IPv4 Settings栏，设置`Shared to other computers`
 - **步骤八**：打开终端输入`sudo vim /etc/NetworkManager/system-connections/ap_name`，确认`mode=ap`
 - **步骤九**：打开终端输入`sudo vim /etc/modprobe.d/bcmdhd.conf`，打开后在配置文件的最后加入以下行，保存。
-
 ```bash
 options bcmdhd op_mode=2
 ```
-
 - **步骤十**：重启
 
 ## 参考
